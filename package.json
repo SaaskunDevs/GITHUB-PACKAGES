@@ -1,0 +1,21 @@
+{
+  "name": "com.saaskunstudios.text",
+  "version": "1.0.0",
+  "displayName": "My Unity Package",
+  "description": "A Unity package",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "hello",
+    "git",
+    "custom-package"
+  ],
+  "samples": [
+    {
+      "displayName": "Hello Script",
+      "description": "A simple script that prints Hello to the console.",
+      "path": "Runtime"
+    }
+  ]
+}
